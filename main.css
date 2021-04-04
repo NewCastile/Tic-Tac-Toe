@@ -1,0 +1,60 @@
+* {
+    font: 1.1em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:700;
+}
+
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    width: 50%;
+    margin: 0px auto;
+}
+
+.card {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.row > * {
+    margin: 0;
+    padding: 20px;
+    height: 20px;
+    width: 20px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+h1.winner {
+    color: rgb(5, 131, 5);
+}
+
+h1.draw {
+    color: rgb(204, 0, 0);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 50%;
+}
