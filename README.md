@@ -8,7 +8,7 @@ supports other patterns that are more expressive. The set of possible inheritanc
 Something that i copy and pasted from Douglas Crockford's JavaScript The Good Parts that does 
 a little introduction to the topic referenced in the title because the factory pattern is just another 
 way for creating objects in JavaScript. They're just functions that return objects when they're called. 
-The factory pattern takes advantages of closures in other to simulate privacy, wich cannot be achieved 
+The factory pattern takes advantages of closures in order to simulate privacy, wich cannot be achieved 
 with differential inheritance. 
 
 So inside a function we can create variables and other functions and then return and object whose properties and 
