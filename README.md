@@ -25,6 +25,6 @@ the revealing module pattern and the PubSub Module. A source that really helped 
 
 ## PubSub Pattern
 Also seen in the LearnCode.academy Modular Javascript series, in the project this module helps update the game counter element and
-to display the winner of the match or if there was draw. For a better understanding of this pattern Addy Osmani's Learning JavaScript
+to display the winner of the match or if there was a draw. For a better understanding of this pattern Addy Osmani's Learning JavaScript
 Dessign Patterns and Stoyan Stefanov's JavaScript Pattern were very good resources. In Pages 171 to 172 of JavaScript Patterns are explained
 the 4 componentes of the pattern: The subcribers array and the subscribe, unsubscribe and publish methods.
