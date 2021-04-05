@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe Project taken from The Odin Project
+Tic-Tac-Toe Project taken from The Odin Project. See Demo [Here](https://newcastile.github.io/Tic-Tac-Toe/)
 
 ## Factory Functions
 *"JavaScript provides a much richer set of code reuse patterns. It can ape the classical pattern, but it also 
